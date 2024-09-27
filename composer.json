@@ -1,0 +1,22 @@
+{
+    "name": "aufcss/auf-founder",
+    "description": "Activity-8.2",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Content\\": "src/Content/",
+            "Factory\\": "src/Factory/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nhetamurao",
+            "email": "nethamurao@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "setasign/fpdf": "^1.8"
+    }
+}
